@@ -75,9 +75,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-Sab badges image wali se match karte hain + AI aur Cloud section full hai! Commit karo aur dekho. 🚀
----
-
 ### 📊 GitHub Stats
 
 <p align="center">

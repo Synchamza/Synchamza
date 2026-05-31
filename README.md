@@ -16,6 +16,9 @@
 
 📫 Connect with me: [linkedin.com/in/synchamza](https://linkedin.com/in/synchamza)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Synchamza/Synchamza/output/github-snake-dark.svg" />
+</p>
 
 ---
 

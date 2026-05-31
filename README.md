@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hamza 👋</h1>
 
 <p align="center">
-  <b>Software Engineering Student</b> • Full Stack Developer • Pakistan 🇵🇰
+  <b>Masters in AI </b> • Full Stack AI Developer • Germany 🇩🇪
 </p>
 
 ---

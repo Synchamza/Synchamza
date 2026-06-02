@@ -12,7 +12,7 @@
 - 💼 Currently working at **BSH** as a Working Student
 - 🔭 Building **GutMapDx** — an AI-powered medical diagnostic platform
 - 🌱 Always learning, always shipping
-- ⚡ Fun fact: *Destiny is all.*
+- ⚡ Life moto: *Destiny is all.*
 
 📫 Connect with me: [linkedin.com/in/synchamza](https://linkedin.com/in/synchamza)
 

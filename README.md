@@ -9,7 +9,7 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 AI student passionate about building real-world solutions
-- 💼 Currently working at **BSH** as a Working Student
+- 💼 Currently working at **BSH** as a working student
 - 🔭 Building **GutMapDx** — an AI-powered medical diagnostic platform
 - 🌱 Always learning, always shipping
 - ⚡ *Destiny is all.*
